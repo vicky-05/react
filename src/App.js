@@ -23,7 +23,7 @@ function App() {
         </div>
         <div className="register">
           <p>New to Website?</p><a href="">Register</a>
-          <button>Change</button>
+          
         </div>
       </form>
     </div>
